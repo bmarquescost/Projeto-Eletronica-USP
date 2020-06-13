@@ -9,8 +9,19 @@ Construção de uma fonte reficadora capaz de transformar corrente alternada de 
 Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência de 60 hz.
 
 ## Escolha dos componentes:
-
-(tabela do kibon)
+| Componentes | Valor R$ |
+| 4x Diodo 1N4001 | [ R$0,15  x  4 = R$0,60 ] https://www.baudaeletronica.com.br/diodo-1n4001.html |
+| 1 Capacitor Eletrolítico 470uF / 25V | [R$ 0,30] https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html |
+| 1 Led Vermelho 5mm | [R$ 0,25] https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html |
+| Resistor 1k ohm | [R$ 0,08] https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html |
+| Resistor 390 ohm | [R$ 0,08] https://www.baudaeletronica.com.br/resistor-390r-5-1-4w.html |
+| Resistor 120 ohm | [R$ 0,08] https://www.baudaeletronica.com.br/resistor-120r-5-1-4w.html |
+| Resistor 2.2k | [R$ 0,10] https://daeletrica.com.br/resistor-2-2k-1-4w-x10-unidades.html |
+| Potenciômetro Linear de 5k | [R$ 1,15] https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html |
+| Diodo Zener 1N4743 (13v) | [R$ 0,21] https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html |
+| Transistor NPN BC548 | [R$ 0,18] https://www.baudaeletronica.com.br/transistor-npn-bc548.html |
+| Transformador 127 para 24 V | [R$ 30,00] https://produto.mercadolivre.com.br/MLB-1342308413-transformador-024v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=EAIaIQobChMI-svhvuT_6QIVhA-RCh3n7geDEAQYAyABEgIohPD_BwE&quantity=1 |
+| Total | R$ 33,03 |
 
 ## Os componentes
 
