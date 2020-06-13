@@ -3,10 +3,13 @@
 ## Projeto desenvolvido para a disciplina de Eletrônica.
 
 ## Instruções:
+
 Construção de uma fonte reficadora capaz de transformar corrente alternada de tensão 127 volts em uma corrente contínua, com valor de tensão ajustável entre 3 e 12 volts. 
+
 Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência de 60 hz.
 
 ## Escolha dos componentes:
+
 (tabela do kibon)
 
 ## Os componentes
@@ -36,6 +39,8 @@ Bernardo Marques Costa (Odonto)
 Gabriel Freitas Ximenes de Vasconcelos (Kibon)  
 
 Pedro Augusto Ribeiro Gomes (França)
+
+## Agradecimentos
 
 Agradecemos ao excelentíssimo professor Eduardo do Valle Simões, o Rei.
 
