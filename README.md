@@ -1,15 +1,15 @@
 # Projeto-Eletronica-USP
 
-##Projeto desenvolvido para a disciplina de Eletrônica.
+## Projeto desenvolvido para a disciplina de Eletrônica.
 
-##INSTRUÇÕES:
+## INSTRUÇÕES:
 Construção de uma fonte reficadora capaz de transformar corrente alternada de tensão 127 volts em uma corrente contínua, com valor de tensão ajustável entre 3 e 12 volts. 
 Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência de 60 hz.
 
-##Escolha dos componentes:
+## Escolha dos componentes:
 (tabela do kibon)
 
-##Os componentes
+## Os componentes
 
 * Transformador -> 1° componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v).
 Obs.: o transformador apenas altera o valor da diferença de potencial entre seus terminais, não alterando de corrente alternada para corrente contínua.
@@ -27,10 +27,10 @@ Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exata
 
 * Transistor -> utilizado para permitir a passagem da corrente de forma ajustável.
 
-##Link do circuito no Falstad:
+## Link do circuito no Falstad:
 http://tinyurl.com/ya4z7x3m
 
-##Alunos:
+## Alunos:
 Bernardo Marques Costa (Odonto)
 Gabriel Freitas Ximenes de Vasconcelos (Kibon)  
 Pedro Augusto Ribeiro Gomes (França)
