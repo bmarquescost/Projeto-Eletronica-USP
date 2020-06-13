@@ -43,7 +43,7 @@ Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exata
 * Transistor -> utilizado para permitir a passagem da corrente de forma ajustável.
 
 ## Imagem do circuito
-<img src="./Imagens-Simulação/Simulação.png"
+<img src="./Imagens-Simulação/Simulação.png">
 
 
 ## Link do circuito no Falstad:
