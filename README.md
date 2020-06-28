@@ -26,21 +26,21 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 
 ## Os componentes
 
-* Transformador -> 1° componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v).
+* Transformador: 1° componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v).
 Obs.: o transformador apenas altera o valor da diferença de potencial entre seus terminais, não alterando de corrente alternada para corrente contínua.
  
-* Ponte de diodo -> utilizada para que o circuito seja abastecido com a corrente em ambos ciclos da corrente alternada.  
+* Ponte de diodo: utilizada para que o circuito seja abastecido com a corrente em ambos ciclos da corrente alternada.  
 
-* Capacitor -> armazena a carga durante os ciclos da corrente alternada, liberando corrente quando a tensão interna é maior que a tensão vinda da fonte. Descarrega quando ocorre a inversão de ciclo. 
+* Capacitor: armazena a carga durante os ciclos da corrente alternada, liberando corrente quando a tensão interna é maior que a tensão vinda da fonte. Descarrega quando ocorre a inversão de ciclo. 
 
-* Diodo Zener -> regulador de tensão máxima. Somente conduz corrente quando a tensão que chegar alcança a tensão nominal do diodo, que no caso deste projeto, será 12v. Se a tensão for menor do que 12v, o Diodo não conduz e, portanto, não interfere no circuito, se for maior, deixará a corrente passar, mantendo a tensão em 12v naquele ponto.
+* Diodo Zener: regulador de tensão máxima. Somente conduz corrente quando a tensão que chegar alcança a tensão nominal do diodo, que no caso deste projeto, será 12v. Se a tensão for menor do que 12v, o Diodo não conduz e, portanto, não interfere no circuito, se for maior, deixará a corrente passar, mantendo a tensão em 12v naquele ponto.
 Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exatamente o valor de tensão  máximo que queremos na saída da nossa fonte.
 
-* Resistores -> complementam o circuito de forma a limitar a corrente e impedindo que a corrente do circuito ultrapasse os valores limites dos componentes.
+* Resistores: complementam o circuito de forma a limitar a corrente e impedindo que a corrente do circuito ultrapasse os valores limites dos componentes.
 
-* Potenciometro -> resistor variável que permitirá o controle do valor da tensão resultante entre 3 e 12 volts.
+* Potenciometro: resistor variável que permitirá o controle do valor da tensão resultante entre 3 e 12 volts.
 
-* Transistor -> utilizado para permitir a passagem da corrente de forma ajustável.
+* Transistor: utilizado para permitir a passagem da corrente de forma ajustável.
 
 ## Imagem do circuito
 <img src="./Imagens-Simulação/Simulação.png">
@@ -50,14 +50,14 @@ Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exata
 http://tinyurl.com/ya4z7x3m
 
 ## Alunos:
-Bernardo Marques Costa (Odonto)
+Bernardo Marques Costa [(Odonto)](https://github.com/bmarquescost)
 
-Gabriel Freitas Ximenes de Vasconcelos (Kibon)  
+Gabriel Freitas Ximenes de Vasconcelos [(Kibon)](https://github.com/kibonusp)  
 
-Pedro Augusto Ribeiro Gomes (França)
+Pedro Augusto Ribeiro Gomes [(França)](https://github.com/parg07)
+
+Mateus Israel [(Capitão)](https://github.com/Mateusrael)
 
 ## Agradecimentos
 
 Agradecemos ao excelentíssimo professor Eduardo do Valle Simões, o Rei.
-
-É nois 020.
