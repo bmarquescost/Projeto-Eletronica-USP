@@ -51,9 +51,14 @@ Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exata
 ## Imagem do circuito
 <img src="./Imagens-Simulação/Simulação.png">
 
-
 ## Link do circuito no Falstad:
 http://tinyurl.com/y9jxufk3
+
+## Imagem do circuito esquemático
+<img src="./Imagens-Simulação/Esquemático.png">
+
+## Imagem PCB no programa Proteus
+<img src="./Imagens-Simulação/pcb.png">
 
 ## Alunos:
 Bernardo Marques Costa [(Odonto)](https://github.com/bmarquescost)
