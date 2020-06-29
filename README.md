@@ -38,7 +38,7 @@ Obs.: o transformador apenas altera o valor da diferença de potencial entre seu
 
 * **Ponte de diodo**: utilizada para que o circuito seja abastecido com a corrente em ambos ciclos da corrente alternada.  
 
-* **Capacitor**: armazena a carga durante os ciclos da corrente alternada, liberando corrente quando a tensão interna é maior que a tensão vinda da fonte. Descarrega quando ocorre a inversão de ciclo. 
+* **Capacitor**: armazena a carga durante os ciclos da corrente alternada, liberando corrente quando a tensão interna é maior que a tensão vinda da fonte. Descarrega quando ocorre a inversão de ciclo. O capacitor foi escolhido para um ripple de 10%, calculando chegamos à um valor de 458uF, foi escolhido o valor comercial próximo de 470uF.
 
 * **Diodo Zener**: regulador de tensão máxima. Somente conduz corrente quando a tensão que chegar alcança a tensão nominal do diodo, que no caso deste projeto, será 12v. Se a tensão for menor do que 12v, o Diodo não conduz e, portanto, não interfere no circuito, se for maior, deixará a corrente passar, mantendo a tensão em 12v naquele ponto.
 Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exatamente o valor de tensão  máximo que queremos na saída da nossa fonte.
