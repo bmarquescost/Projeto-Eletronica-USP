@@ -21,14 +21,15 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 | 1          | Diodo Zener (13v)  | [R$ 0,21](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) |
 | 1          | Transistor NPN     | [R$ 0,18](https://www.baudaeletronica.com.br/transistor-npn-bc548.html) |
 | 1          | Transformador      | [R$ 22,99](https://produto.mercadolivre.com.br/MLB-989883391-transformador-trafo-1212v-200ma-bivolt-eletronica-eletrica-_JM?quantity=1#position=1&type=item&tracking_id=9abf8c61-6492-4e02-bb1d-d1a22f9b055d) |
-| 1          | Fusível (opcional) | [R$ 0,20](https://produto.mercadolivre.com.br/MLB-1215177820-100-pecas-fusivel-vidro-pequeno-5x20-100ma-promoco-_JM?matt_tool=82322591&matt_word&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7KL-xfYxsBZ2ISQ6MRvXKc2D47XdN2jg_2NzGVHaAz0weXOF5UQ18RoCmSgQAvD_BwE&quantity=1) |
-| 1          | Varistor (opcional)| [R$ 0,72](https://produto.mercadolivre.com.br/MLB-802196375-50x-varistor-150v-10k-241-_JM?quantity=1#reco_item_pos=1&reco_backend=machinalis-seller-items-pdp&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=6a1c9055-dc87-4ed6-b1dd-cb4f8ae5d41d) |
-| **Total (sem opcionais)**  |                    |  R$ 26,17 |
+| 1          | Fusível            | [R$ 0,20](https://produto.mercadolivre.com.br/MLB-1215177820-100-pecas-fusivel-vidro-pequeno-5x20-100ma-promoco-_JM?matt_tool=82322591&matt_word&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7KL-xfYxsBZ2ISQ6MRvXKc2D47XdN2jg_2NzGVHaAz0weXOF5UQ18RoCmSgQAvD_BwE&quantity=1) |
+ | 1         | Varistor           | [R$ 0,72](https://produto.mercadolivre.com.br/MLB-802196375-50x-varistor-150v-10k-241-_JM?quantity=1#reco_item_pos=1&reco_backend=machinalis-seller-items-pdp&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=6a1c9055-dc87-4ed6-b1dd-cb4f8ae5d41d) |
+| **Total**  |                    |  R$ 27,09 |
 
 ## Os componentes
 
 * **Transformador**: primeiro componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v). 
 O transformador escolhido é capaz de abaixar a tensão de 110 volts para 12 volts.
+
 Obs.: o transformador apenas altera o valor da diferença de potencial entre seus terminais, não alterando de corrente alternada para corrente contínua.
  
 * **Fusível**: dispositivo de segurança que impede a passagem de correntes muito alta, protegendo os dispositivos do circuito em eventuais picos de corrente. 
