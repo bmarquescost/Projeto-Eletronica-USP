@@ -23,7 +23,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 | 1          | Transformador      | [R$ 22,99](https://produto.mercadolivre.com.br/MLB-989883391-transformador-trafo-1212v-200ma-bivolt-eletronica-eletrica-_JM?quantity=1#position=1&type=item&tracking_id=9abf8c61-6492-4e02-bb1d-d1a22f9b055d) |
 | 1          | Fusível (opcional) | [R$ 0,20](https://produto.mercadolivre.com.br/MLB-1215177820-100-pecas-fusivel-vidro-pequeno-5x20-100ma-promoco-_JM?matt_tool=82322591&matt_word&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7KL-xfYxsBZ2ISQ6MRvXKc2D47XdN2jg_2NzGVHaAz0weXOF5UQ18RoCmSgQAvD_BwE&quantity=1) |
 | 1          | Varistor (opcional)| [R$ 0,72](https://produto.mercadolivre.com.br/MLB-802196375-50x-varistor-150v-10k-241-_JM?quantity=1#reco_item_pos=1&reco_backend=machinalis-seller-items-pdp&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=6a1c9055-dc87-4ed6-b1dd-cb4f8ae5d41d) |
-| **Total**  |                    |  R$ 26,54|
+| **Total (sem opcionais)**  |                    |  R$ 26,17 |
 
 ## Os componentes
 
