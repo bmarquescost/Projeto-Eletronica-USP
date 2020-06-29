@@ -62,9 +62,7 @@ http://tinyurl.com/y9jxufk3
 <img src="./Imagens-Simulação/pcb.png">
 
 ## Vídeo no Youtube
-<video width="320" height="240" controls>
- <source src="https://youtu.be/0L9eRKaqJ-0">
-</video>
+https://youtu.be/0L9eRKaqJ-0
 
 ## Alunos:
 Bernardo Marques Costa [(Odonto)](https://github.com/bmarquescost)
