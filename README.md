@@ -66,7 +66,7 @@ Bernardo Marques Costa [(Odonto)](https://github.com/bmarquescost)
 
 Gabriel Freitas Ximenes de Vasconcelos [(Kibon)](https://github.com/kibonusp)
 
-Mateus Israel [(Capitão)](https://github.com/Mateusrael)
+Mateus Israel Silva [(Capitão)](https://github.com/Mateusrael)
 
 Pedro Augusto Ribeiro Gomes [(França)](https://github.com/parg07)
 
