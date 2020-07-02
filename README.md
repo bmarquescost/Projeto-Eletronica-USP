@@ -12,7 +12,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 | Quantidade | Componentes        | Valor R$ |
 |------------|--------------------|----------|
 | 5x         | Diodo 1N4001       | [R$ 0,15  x  5 = R$0,75](https://www.baudaeletronica.com.br/diodo-1n4001.html) |
-| 1          | Capacitor 470uF    | [R$ 1,35](https://https://produto.mercadolivre.com.br/MLB-1224395161-capacitor-560uf25v-samwha-105-8x20mm-560uf-25v-kit-c10-pc-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw6PD3BRDPARIsAN8pHuE09_vpTP-94KUv8B484TN9yoMPKdl6mD5vyV6dcl-4E9XVeMutZqQaAnpaEALw_wcB&quantity=1) |
+| 1          | Capacitor 470uF    | [R$ 1,35](https://produto.mercadolivre.com.br/MLB-1224395161-capacitor-560uf25v-samwha-105-8x20mm-560uf-25v-kit-c10-pc-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw6PD3BRDPARIsAN8pHuE09_vpTP-94KUv8B484TN9yoMPKdl6mD5vyV6dcl-4E9XVeMutZqQaAnpaEALw_wcB&quantity=1) |
 | 1          | Led Vermelho 5mm   | [R$ 0,25](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html) |
 | 2          | Resistor 1k ohm    | [R$ 0,08 x 2 = R$0,16](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html) |
 | 1          | Resistor 120 ohm   | [R$ 0,08](https://www.baudaeletronica.com.br/resistor-120r-5-1-4w.html) |
