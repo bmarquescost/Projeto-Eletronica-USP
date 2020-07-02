@@ -66,6 +66,7 @@ http://tinyurl.com/yceae9x5
 
 ## Vídeo no Youtube
 https://youtu.be/0L9eRKaqJ-0
+Aviso: O valor de capacitor no video foi alterado de 470uF para 560uF, o que alterou um pouco os preços também.
 
 ## Alunos:
 Bernardo Marques Costa [(Odonto)](https://github.com/bmarquescost)
