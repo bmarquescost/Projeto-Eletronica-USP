@@ -52,6 +52,9 @@ Informalmente, o diodo Zener “trava” o valor da tensão em 12v, que é exata
 ## Imagem do circuito
 <img src="./Imagens-Simulação/Simulação.png">
 
+## Cálculo do capacitor 
+<img src="./Imagens-Simulação/Calculos.png">
+
 ## Link do circuito no Falstad:
 http://tinyurl.com/yceae9x5
 
